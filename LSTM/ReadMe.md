@@ -7,3 +7,6 @@ This is what each file does:
 model.py  -->  implements the model
 
 main.py --> shows how to load the dataset and then train the model on it
+
+---------------------
+The codes are written in Tensorflow.
